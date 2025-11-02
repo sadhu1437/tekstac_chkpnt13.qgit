@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 This is the new file 1st line
 
 This is the new file 2nd line, 2nd modification
+=======
+I'm Sandeep
+
+This is the new file 1st line
+
+This is the new file 2nd line, 2nd modification
+
+>>>>>>> bebc1c3 (Updated new_local_file.txt and sampletxt.txt with latest content)
